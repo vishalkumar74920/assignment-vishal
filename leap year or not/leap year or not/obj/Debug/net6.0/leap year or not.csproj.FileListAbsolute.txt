@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\bin\Debug\net6.0\leap year or not.exe
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\bin\Debug\net6.0\leap year or not.deps.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\bin\Debug\net6.0\leap year or not.runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\bin\Debug\net6.0\leap year or not.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\bin\Debug\net6.0\leap year or not.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\refint\leap year or not.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\leap year or not.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\leap year or not\leap year or not\obj\Debug\net6.0\ref\leap year or not.dll

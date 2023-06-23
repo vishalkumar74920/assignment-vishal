@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\bin\Debug\net6.0\Large then 0.exe
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\bin\Debug\net6.0\Large then 0.deps.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\bin\Debug\net6.0\Large then 0.runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\bin\Debug\net6.0\Large then 0.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\bin\Debug\net6.0\Large then 0.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\refint\Large then 0.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\Large then 0.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\Large then 0\Large then 0\obj\Debug\net6.0\ref\Large then 0.dll

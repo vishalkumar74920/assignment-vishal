@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\bin\Debug\net6.0\n terms of odd natural numbers.exe
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\bin\Debug\net6.0\n terms of odd natural numbers.deps.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\bin\Debug\net6.0\n terms of odd natural numbers.runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\bin\Debug\net6.0\n terms of odd natural numbers.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\bin\Debug\net6.0\n terms of odd natural numbers.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\refint\n terms of odd natural numbers.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\n terms of odd natural numbers.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\n terms of odd natural numbers\n terms of odd natural numbers\obj\Debug\net6.0\ref\n terms of odd natural numbers.dll
