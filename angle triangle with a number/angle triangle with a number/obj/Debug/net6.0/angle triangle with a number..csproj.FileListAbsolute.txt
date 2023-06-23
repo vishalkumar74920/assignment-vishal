@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\bin\Debug\net6.0\angle triangle with a number..exe
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\bin\Debug\net6.0\angle triangle with a number..deps.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\bin\Debug\net6.0\angle triangle with a number..runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\bin\Debug\net6.0\angle triangle with a number..dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\bin\Debug\net6.0\angle triangle with a number..pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\refint\angle triangle with a number..dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\angle triangle with a number..genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\angle triangle with a number\angle triangle with a number\obj\Debug\net6.0\ref\angle triangle with a number..dll

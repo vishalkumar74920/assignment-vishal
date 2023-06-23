@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "display the n terms of even natural number/1.0.0": {
+        "runtime": {
+          "display the n terms of even natural number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "display the n terms of even natural number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

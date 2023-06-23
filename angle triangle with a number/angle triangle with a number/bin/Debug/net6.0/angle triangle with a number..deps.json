@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "angle triangle with a number./1.0.0": {
+        "runtime": {
+          "angle triangle with a number..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "angle triangle with a number./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
