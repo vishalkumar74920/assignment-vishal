@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "display the sum of n natural number/1.0.0": {
+        "runtime": {
+          "display the sum of n natural number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "display the sum of n natural number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

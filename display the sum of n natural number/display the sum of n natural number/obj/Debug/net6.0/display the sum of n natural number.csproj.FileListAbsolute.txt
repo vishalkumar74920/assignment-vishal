@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\bin\Debug\net6.0\display the sum of n natural number.exe
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\bin\Debug\net6.0\display the sum of n natural number.deps.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\bin\Debug\net6.0\display the sum of n natural number.runtimeconfig.json
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\bin\Debug\net6.0\display the sum of n natural number.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\bin\Debug\net6.0\display the sum of n natural number.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\refint\display the sum of n natural number.dll
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.pdb
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\display the sum of n natural number.genruntimeconfig.cache
+C:\Users\visha\OneDrive\Desktop\New folder (3)\display the sum of n natural number\display the sum of n natural number\obj\Debug\net6.0\ref\display the sum of n natural number.dll
